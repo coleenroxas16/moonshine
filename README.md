@@ -9,6 +9,6 @@ This project is built using simple yet powerful web technologies:
 
 ## How to View
 
-To experience "Will You Be My Valentine?", simply visit [https://mehedyhassanratul.github.io/moonshine/](https://mehedyhassanratul.github.io/moonshine/) from any modern web browser.
+https://coleenroxas16.github.io/moonshine/
 
 
